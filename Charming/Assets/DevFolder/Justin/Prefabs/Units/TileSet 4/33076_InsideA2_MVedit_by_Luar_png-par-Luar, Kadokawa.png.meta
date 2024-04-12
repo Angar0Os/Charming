@@ -1,0 +1,5798 @@
+fileFormatVersion: 2
+guid: 01f47d1a2e2a6564e80881f06ed356f2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee6abbb1266e9e40b587711f40a6ce0
+      internalID: -1948668777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503ca72c03ff4714ea95e0e696101d14
+      internalID: -402117346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13579b0c82f2f0349a1631e221d93edd
+      internalID: 1639431562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc219b6444b8904e93100a826c5309c
+      internalID: -1644406170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_4
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542422014afb1474d86fdf364901d63f
+      internalID: 1149129448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a9ae91cfe85b54b862c1d78a693575
+      internalID: -1137123142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca288d952e9752e468379128559f9ded
+      internalID: -2009190123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113936aca0456af45878a580938c7b8c
+      internalID: 1711366831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_8
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 544
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bca57a9c73acf4b87501346faadee4
+      internalID: 1564289696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917e3132e965e2f4db6bb77a45f84863
+      internalID: -1525539218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96331503c1ccdf34eac30b445fed57c4
+      internalID: -489065686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575223590ab8aad47a137e51e04b119b
+      internalID: 1307740284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecae2c10977940a4f8bae76c2de912b4
+      internalID: -1070809970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a573bc0cb48b33142a61fd3da87009cd
+      internalID: 175729649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bedf6a29c902c4882b35fefb57fc9d
+      internalID: 424502416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4042425fb9a717a4d82e4fed710e1b25
+      internalID: -391923199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed92c86f59778e449ab845ca1f0179c6
+      internalID: -944484361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2b79e362c934f41b027338ef72aece
+      internalID: 67324377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eea52a499661f94eac0dee34970fce5
+      internalID: -1855720176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1770965b309d9d64f8699c809e7ec5fb
+      internalID: -1980697348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc60ad89bead56d499398f191f3a4f78
+      internalID: 1737834966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873433ec64fce0946a546744e47522ab
+      internalID: 45930926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_22
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fadefc351c76924d865bfd871b74453
+      internalID: 760144854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c4daa6b344eb44fb350c18469060e7
+      internalID: -166398283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6364532f2420fe45a8b2410c0bda16a
+      internalID: 1508792038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_25
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9e15961f7471149801c6c775fcab35
+      internalID: 1976615130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be550ea39b0bd9c468bd65c23c1a58b1
+      internalID: -189805893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba373449540a4f74cb2d0e5a4a67fbbb
+      internalID: -1643847454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1277ba0a73478d4fb36a40ec1fde248
+      internalID: 1371349412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ce5879b3343c148b36a536ba21f22b
+      internalID: -421178742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414bde69d556f8c4a99e943918871cec
+      internalID: 957197074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_31
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c849449f2e86464f8ff3483efdd8b14
+      internalID: 161009198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc753bbd5384d3d4f8f8d0b2080adcd6
+      internalID: 1024959769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_33
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146e1f93b37409a4196be60521e9c61a
+      internalID: 2030277809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0ae6afc2fe2624d87ac3b0dd89a8fe
+      internalID: 195126849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4801e4cc391ea2444b78a016776691df
+      internalID: -1017000588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b93153169d83484cb03436fda38e634
+      internalID: 2127705353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_37
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cce723df21469e42a274ed88157db60
+      internalID: -814799264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcbfb25f6d2f5b41b65a8b8a0156498
+      internalID: -1680426559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dab7103f6f84c4993d3276ed3d0e9c
+      internalID: 365812110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ecdf1253f34e745b94bb39ab2e4400
+      internalID: -2002420479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_41
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40770f8e7466064785b21b483b2af5d
+      internalID: 805226506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa073e3625f5afc4baa1d634972bba3a
+      internalID: -1092391898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_43
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3107be68a81d1ab4a9e502bdf4a340e4
+      internalID: 497936936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7308a3aaec01b03458c8bf2c76002e84
+      internalID: -1789159789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_45
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b858cebeb9c09f441ad78bc604bc8a49
+      internalID: -1807282527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564c1716c905fa646939578fcfa39c44
+      internalID: 635370175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_47
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4374815eb743b4a97ca6522e63f79d
+      internalID: 2033622360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_48
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea68f673af07a04a99efb18ede4db70
+      internalID: -1411490352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_49
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf9499f3f2cf4e4e8705641eac8a494
+      internalID: 1799401787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d7f23009dba8944b13f9237f4f6e58
+      internalID: -192723345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_51
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1437d878fa10e8949b43373ba3fc2e93
+      internalID: -1827745827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_52
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5cf9fe95a5a624bb1ab59af988dd30
+      internalID: -227711567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_53
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283b4f72b6fe5ef45a897a1519421fde
+      internalID: 431514025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fec5b784a0f51449df060f6f92dfa2
+      internalID: -1347539974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_55
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25d205f4da553a44923646cecea1f77
+      internalID: 255830114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2a447cc03d87c479c1c0338fc17bb7
+      internalID: 2035889117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_57
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e468a376367f34e4481b569247ba54d5
+      internalID: -469134491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff0004df4e87f04faa5d238736094c1
+      internalID: -1251725885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c7b95a89d54c240bed1e96fcd39ff7
+      internalID: -1908946973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba33d64f14ea67147bb77078770ca824
+      internalID: 448942682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b195795bf4708446a2e04217f1eb995
+      internalID: 1027983258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd1db8f740d8e34983162a555d42bae
+      internalID: -2092824216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_63
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d665799f306952c4ba03ba118bded270
+      internalID: 1769309741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747eb2ecca68194408b0db67ec1d24cf
+      internalID: -1526811519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_65
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa394149f915f841ad23964075678db
+      internalID: 1424090760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_66
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbc118379707bd488bd080717ef7be7
+      internalID: 1980047595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_67
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6311fd93cfad9d147a4165c2358b1747
+      internalID: -2085811190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c094bcca698fa478493aec0fe5312b
+      internalID: -623411094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_69
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6365e6ffc6dac499618e1b44d87f2c
+      internalID: 1764828466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f9373dc907d224294435537a90d9c8
+      internalID: -1125488242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_71
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383f23db2f3146c4ca52f935bbc5f950
+      internalID: -60662046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adde47e818350e448be1e7d453f6ab1b
+      internalID: -1861901130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0b8ee6d18c51646a38118034ab1146
+      internalID: -402789167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fd0ca89c87f724eaaeebdd13e98b11
+      internalID: 1130458254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15253d6effd5a58438a0bcba1855180b
+      internalID: 188151588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0d05c1bf5732046a479f32f80baea6
+      internalID: 83986845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4017c94540a244f4c9794505de530b58
+      internalID: 490627089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acf2f38ee0f76e46a1a42f7ac93a381
+      internalID: -1448303270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8dff1ef594309408da82fe728d6c5f
+      internalID: 754139460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_80
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94eb00867cc3d654db7ae314897884ca
+      internalID: -504820845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de2b9b1d5f6aed49a5cb77fa184f3fe
+      internalID: -1990153685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5067cddfa700e9e4c975ac1ede6aaf74
+      internalID: 1144188010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_83
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2f29a771e2a6d458e5bf0b8febfc67
+      internalID: -1570295832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b014a6ed37976e845b4635a050a64589
+      internalID: 1004486432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_85
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdced0064c6db34bab47e37aa4c5fc2
+      internalID: -2112039852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_86
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab7303a5fa8d6648a6d5ccdd6f736ac
+      internalID: -539272519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_87
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f17828daf74e14c9b68369c3f4cdc4
+      internalID: -1244944155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_88
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e17871630bff94a8eb924e5c79a758
+      internalID: -1561859187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_89
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148306edda97c4f4780e46586636615d
+      internalID: 1387951069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_90
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cab0cca4c6313439dd0a5b0ef49e79
+      internalID: 1454385552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_91
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ade0dc986b5e14293641aded8f934d
+      internalID: 476132293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_92
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6908ceb376792a641b930180f805b40d
+      internalID: 819532043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2f2d2431ad5cf4e93fd4f072f38a26
+      internalID: 591899282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_94
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5a7ce0b7f25374f9e23ee999dec63f
+      internalID: 620229589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_95
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866be02c13db74848b9515c71011feba
+      internalID: -1573438984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_96
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec379f9cf9780940ab70b474870367f
+      internalID: -967086183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_97
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c88cce4df7cf0e4fa40bca44ace7e8e
+      internalID: -559317633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_98
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43ece08dcc174649b5314b9aa3a344b
+      internalID: 482278179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a91f61f2b90cc84abe9d5d1195353bc
+      internalID: 1224324946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_100
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e695f92d5b4ac46b0fb359faed8399
+      internalID: -729537307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_101
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5924ad17d600e439bdfee2270c363d
+      internalID: -1495868096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_102
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7408390d7f20eb44c9f278027fec4b24
+      internalID: 2113858583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_103
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42133cde7a29604285763d214a5dd06
+      internalID: -52360014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_104
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8761a2774c91c4491cb6b7ff8778db
+      internalID: -937097359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_105
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b86cd94bf93e240a4f22a62ba6f3dc
+      internalID: -1109763207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_106
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a13426452d3134abecabc44e7201ff
+      internalID: 103088667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_107
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67d7bc105b346b42b12d61ae3494689
+      internalID: -543755745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_108
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75532bc165ec04043b52f2c7f48a72d4
+      internalID: 292094701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_109
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b395c1042efa8ad44afb917510f66c70
+      internalID: 188671160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_110
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c18874a81dba54aa76036162a256e2
+      internalID: -340563445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_111
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7691cb39588bf46b0a30ec27a3b550
+      internalID: 847813679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_112
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fbbdcd8997cab4d8975513d49bef97
+      internalID: -1116347871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_113
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf5caf02ae68de498288c7b7198cc53
+      internalID: -82446044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014cb9fbc5c057f4986e8620a4f60203
+      internalID: 844428635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_115
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451f506b4cfeca145a1afa0721b9045a
+      internalID: 1038671731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7aa656d48c43342921952c98e0ef55
+      internalID: -2000515742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_117
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac04179ba42f5484e8e79fca98fb26ab
+      internalID: 665598503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_118
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4f0b11e0e4f694396ef8759f0b03e5
+      internalID: 679216318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_119
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e31d764977dc4f47863226b05c151e6
+      internalID: -754082038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_120
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9015277d5984b54db3f33a21c10c0a3
+      internalID: 1630221838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_121
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad451128a23a84e46b12452f5b84ebd0
+      internalID: 1552306211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_122
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993230f6a3e65fd4aa16d357b5a47b4d
+      internalID: 1293197150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_123
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc9474852cfa9a45a4c777a4186b058
+      internalID: 17259647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_124
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99368b1ccd8762047b2a1323f7367f4e
+      internalID: 939869493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_125
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da735c75354b19e4f8151c1012eb8ce5
+      internalID: -1183907176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4abca0026cf6e444a606e1380a736d4
+      internalID: -870264814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_127
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e5a6882c3caad4fb3e8658d149c7c5
+      internalID: -1009390835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_128
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bdb81fa85883964daf3599ca015c673
+      internalID: 1280887448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_129
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3956f6a86456600469fc72e796071d99
+      internalID: -2080986106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_130
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fec758c3637da84d9d55794bc5219aa
+      internalID: -637489476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_131
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da9fffca9764ce4382d64ffc3e712db
+      internalID: 1862141124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_132
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6480fc0e49c405a4894409fe1f02f1d3
+      internalID: 936029619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_133
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a4573915db8734b99a3c9c2b7922a2
+      internalID: -141014611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_134
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cf474dee7a3584c9286592d5df4657
+      internalID: 2004275762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3501e3e23d50ba945abf10452449f824
+      internalID: 1970252095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_136
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96123baa2fe40a43a81ea50e9309368
+      internalID: -1963358566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_137
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a2fd3e45ecebb40bdc91b3d6393504
+      internalID: -803122146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_138
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6dfb26121bece43b013ee3de0c6210
+      internalID: -245341517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_139
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d55da03c4f98e44976060ecc4d3a25
+      internalID: -827028273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_140
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2f9c1d10eee1a4fb01845022864c22
+      internalID: 1038064809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_141
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e69077369f3f9a4cb9fb119e3dcd3a7
+      internalID: 1950998910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_142
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc299003676e4142b2970365683808a
+      internalID: 1172752324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_143
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e1762e9bd3d524ca512302e82324ed
+      internalID: -714217883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_144
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50503f5c4f89c8e4fa7187012a05c6c5
+      internalID: -1232062812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_145
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698db6eaa1931154baa75322ca915fbe
+      internalID: -365246785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_146
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d201588a84981804f9bf47ecc5e6ac24
+      internalID: -1386869962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_147
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a93a890051d348438c50ef1d2021ba7
+      internalID: 996977356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_148
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f1fa00efc330649a1dc359b4a93f0d
+      internalID: -1403576431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_149
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcab1cc48822ce4a85a9fcd97448d53
+      internalID: 2057978487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_150
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9f7c83479ffe848ab9b4876cf06f5b
+      internalID: 1339252648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_151
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe18fb732008ad247b7276f7f78df39d
+      internalID: 1649585965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_152
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06873c55d95d66c43b8fe073727f0438
+      internalID: -1455792827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_153
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f13766764a708b44e8f0630d7f4697c3
+      internalID: 77827062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_154
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a86a3abb2ed46479ffd6076059c6fe
+      internalID: 537124073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_155
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a1888e07725684b998b29b6916b328
+      internalID: -54673081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed03108686d1ee41a68e00e53d3f197
+      internalID: -1002154108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_157
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789795d3d4445f7439f3dcd4554e9ebd
+      internalID: 689518076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_158
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98631e72dc9027d4c8ca9fe418c9b770
+      internalID: 1568359493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_159
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf9b8cc75206494198d9dc7ac58d8a8
+      internalID: -1566350544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_160
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434756891fe340640b4897e123987249
+      internalID: -1079301537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_161
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0e00e920de376459f085b2c6ca9aab
+      internalID: 1129415044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7b696fb48006e419b1adc0836372cf
+      internalID: 1335685816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_163
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909abc206c9993c4db1a91f5b15cc509
+      internalID: 1796370361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_164
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd438d89f0c2e354285c29501c827f36
+      internalID: -427692009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_165
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797b5f75f22614343a0c438838d38171
+      internalID: 320101032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_166
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac91363dd07e1f942a90ad8d77e258b4
+      internalID: -1275666598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_167
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93cc753ec07cf3a4186d1f55aa0ab8f9
+      internalID: -1633434130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_168
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c69e2b92a145346b610be6181ef475
+      internalID: 354253528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_169
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444e2b4181d17d54e8d14f71925eddb8
+      internalID: 1296575587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_170
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5329a4cf1412774fa7ef7725a18aa0a
+      internalID: -1614646424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_171
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f87ef5530df1fb4ca02256612e05989
+      internalID: 907279350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_172
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255071ed14142bd4ebedaddb75c6676e
+      internalID: 726209994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_173
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef38bf37a42bc2479e28c54905fcb2f
+      internalID: 348095467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_174
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0dc97400c7dd148bcbd70d51e482c1
+      internalID: -93934720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_175
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a143a770c987a438b1d364ae551355
+      internalID: -125190466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_176
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f401bd0fdb61449a4c8fdc5594020e
+      internalID: 1599804702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_177
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b71c0aedbc15014786ad33052cda958
+      internalID: 1371253253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_178
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f49b2ac0a6cc4438eac53e2fa3226c
+      internalID: 1991278992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_179
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74109251f46003d41867ea243325aa18
+      internalID: 1865361586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_180
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920d1f7b44f64f34ba3f81ff31bb0076
+      internalID: 935067181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_181
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a9622dc85a2ca4da8cba60cfed4ffe
+      internalID: 412855608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_182
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62916b90973294f4e9eefa8a3f4afa54
+      internalID: -1327623102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_183
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2394665edc70e948a1feac5cca4681a
+      internalID: -364174031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_184
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4ff7f48e365bd4cb36d0c4b0dea3b7
+      internalID: -1170064540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_185
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8104383db23d8a4d8fb54d20fe76934
+      internalID: 1019899947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_186
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcd7dc23c611e648bdbb2122a6be255
+      internalID: -513090200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_187
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326d5e4b09341454fae79a16b5db2d97
+      internalID: -56360785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_188
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c986fe35b868041489c4f41d1e683a09
+      internalID: 1623243430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_189
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b57be33415269458d32cabdeafff38
+      internalID: -504132719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_190
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81eee3fc2dfa894a8649891a4099274
+      internalID: -1720819165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_191
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9d368234d530247b19114a2f2656ed
+      internalID: 465357938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_192
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2a3bedfb460234bb0f78b3ba4db92d
+      internalID: 1996382969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_193
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a1fe0e67adf034089350231fed0ab0
+      internalID: -1989064634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_194
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dd24a586c177f42a48fdb9c1a6c46d
+      internalID: 1925461528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_195
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c46acc5ee19b643989bf54e883027f
+      internalID: -567411726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_196
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f3972f9b4fedf4b8d0af021ddf53a1
+      internalID: -1431650033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_197
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b9c504171c7f04abe714506fc71137
+      internalID: -1803741047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_198
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c503c74aa924ca64b9876e06e93074a7
+      internalID: -526567425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_199
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa053ee981763d1479cc76ddb6370e25
+      internalID: 1390601059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_200
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00f3c0e2661a77459c3c8919acfa6cd
+      internalID: -1535741765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_201
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bbca5bfa443e147acd492927cf91bc
+      internalID: -272214269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_202
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203afddc2c74ffe44b66274dcae5a2ad
+      internalID: -1553200016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_203
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0ac79937ed1464f95e99cfb9c17b29
+      internalID: -1306434040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_204
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005a8d0327a0a94449edb56f2879db74
+      internalID: 508119364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_205
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be87a595d097494d8ea4e56bc2a641a
+      internalID: 1946857485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_206
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc5f3a5dcb3ab242be6b9d4debd9dd0
+      internalID: -163354086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_207
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce58d47f6dfb6e44da8e2f753bbe5397
+      internalID: 1309945968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_208
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac93c8f0428cff418a93053c993e146
+      internalID: -427286819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_209
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f16ffd0ac2bce4b8b7f17053b7f8e3
+      internalID: -1558587688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_210
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18056cdcbe98a3b498b70f741a6d720a
+      internalID: 1450686682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_211
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7448bffe5ae7c44819c4a4aa7cec7c
+      internalID: 1364505005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_212
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779993a193b34424b831641542f18402
+      internalID: -1810310615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_213
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5443838a2c6e0164b8b5eb1a677af6e2
+      internalID: 1306706570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_214
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c8de620de9c16449269f5dbef97eae
+      internalID: 2083154065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_215
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69a6729a1f42744691a90f41bd13a4d
+      internalID: 218954985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_216
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551b9bc10451b364c81181d84b573d48
+      internalID: 892741673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_217
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096f4e42a2fbb1c4aac44a7b3dd6c2b5
+      internalID: 1120126827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_218
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596be1d001b2f9c44be4512a5ef40b2b
+      internalID: -462933376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_219
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638c114eb571af446bafa73b15b3f85b
+      internalID: 228225146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_220
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7831afb9a251fc9439c6699d0cb4f534
+      internalID: 1671531030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_221
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062e157ffadffa246a6d3b2f76d542ea
+      internalID: 1021102342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_222
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b2a686fc1d7a04a8d7a8f66cf2c393
+      internalID: 1266612892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_223
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66fb200a8ea1124ea362c4cd431e524
+      internalID: 578189021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_224
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a952667daec8046b63137eb9da0fd1
+      internalID: -220307667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_225
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237fc3cc836001343ae5e79657c14a75
+      internalID: 2100602464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_226
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec19d69eaf35b04aaec044dfdf76097
+      internalID: 402488502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_227
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3fba61fb1fd2045bd4eb7f80e46903
+      internalID: -1284211243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_228
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7a70fbe0abd9349959fab93f867516
+      internalID: -1228221854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_229
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dd995f88743094b87667009511e06f
+      internalID: -95912296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_230
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1470b013b8f221c479a2ba6acbeb647e
+      internalID: -436012423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_231
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d3b1b9043dfcd48b04dcd87f0e55a1
+      internalID: 814196355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_232
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c192240d2ca24a546a2c686a48f2651f
+      internalID: -1749657292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_233
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9203c3fef0bb50a4fa33fb0006f9d2ee
+      internalID: 271356345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_234
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57f1e1afa5765246865c90ee1992c57
+      internalID: 1323639008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_235
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce20c95bacddc5c4e9182c495ff4d435
+      internalID: 747702869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_236
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bc83c130f0b0e46b5f5f6a2b9e6912
+      internalID: -1333310398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_237
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dcfd2fa388b904faec464af0f6c682
+      internalID: -1700673204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_238
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f103deba8d3d774393bc7429394ad05
+      internalID: -1639138753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_239
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64155244bbe01fd4890e88689fcf0f0f
+      internalID: 1734546412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_240
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d919ac8644062834a92f9c3f29ccf2e3
+      internalID: -478061515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_241
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6408eadf3b08d4283695e1220ffe1e
+      internalID: 946265930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_242
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f4fe9dc66dca348b4c6acf1e9743af
+      internalID: 498460831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_243
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f890316d06a8f6478f033115bfc21a9
+      internalID: 346264996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_244
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00930a9baa8375640b0d11997a9230c5
+      internalID: -964476339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_245
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90838c355215d8448883ebb2e7f90f9
+      internalID: 1523592928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_246
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3237859269bec7748af1bcfc49baa09c
+      internalID: -1671263707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_247
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2706c473538c1ee40b3c56b47e303468
+      internalID: -132190848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_248
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743f8e3dcc4472f4b94d0e532169980e
+      internalID: -970015710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_249
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa9e00100c283f46b5b4f3b4bd7901c
+      internalID: -2020682750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_250
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f912c8c5cc251b4fa95dffa97b4933a
+      internalID: 1886445052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_251
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e797d66d4be8c488e9cb6d626c2e73
+      internalID: -799025469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_252
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cb098714dd7ca4187a949a8c178104
+      internalID: 879405392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_253
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b8a97ce3ccf3940b39bdf996ad5eab
+      internalID: 685627677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_254
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c3193b0b9239a4b82c2f22bfd2f084
+      internalID: 1199723850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_255
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8facb8cdbe268014dab2ceceff6b989c
+      internalID: -1659822515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_256
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f117a7836fad3444d9210f0493e3a4f7
+      internalID: 1997738421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_257
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ab69153c6455540b479a381c7e3d80
+      internalID: -163249989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_201: -272214269
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_59: -1908946973
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_93: 591899282
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_125: -1183907176
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_165: 320101032
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_78: -1448303270
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_216: 892741673
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_160: -1079301537
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_52: -227711567
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_236: -1333310398
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_204: 508119364
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_234: 1323639008
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_194: 1925461528
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_56: 2035889117
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_22: 760144854
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_61: 1027983258
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_126: -870264814
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_159: -1566350544
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_76: 83986845
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_240: -478061515
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_178: 1991278992
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_118: 679216318
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_136: -1963358566
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_195: -567411726
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_129: -2080986106
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_2: 1639431562
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_157: 689518076
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_1: -402117346
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_115: 1038671731
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_192: 1996382969
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_130: -637489476
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_53: 431514025
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_10: -489065686
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_191: 465357938
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_202: -1553200016
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_62: -2092824216
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_19: -1980697348
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_221: 1021102342
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_27: -1643847454
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_247: -132190848
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_80: -504820845
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_158: 1568359493
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_28: 1371349412
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_123: 17259647
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_255: -1659822515
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_64: -1526811519
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_81: -1990153685
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_15: -391923199
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_103: -52360014
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_20: 1737834966
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_190: -1720819165
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_73: -402789167
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_44: -1789159789
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_186: -513090200
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_133: -141014611
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_105: -1109763207
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_233: 271356345
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_149: 2057978487
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_120: 1630221838
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_13: 175729649
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_48: -1411490352
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_18: -1855720176
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_137: -803122146
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_153: 77827062
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_79: 754139460
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_143: -714217883
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_86: -539272519
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_17: 67324377
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_154: 537124073
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_174: -93934720
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_138: -245341517
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_152: -1455792827
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_25: 1976615130
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_170: -1614646424
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_151: 1649585965
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_12: -1070809970
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_54: -1347539974
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_147: 996977356
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_119: -754082038
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_222: 1266612892
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_9: -1525539218
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_108: 292094701
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_180: 935067181
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_7: 1711366831
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_189: -504132719
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_122: 1293197150
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_193: -1989064634
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_250: 1886445052
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_198: -526567425
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_185: 1019899947
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_88: -1561859187
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_146: -1386869962
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_224: -220307667
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_75: 188151588
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_60: 448942682
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_220: 1671531030
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_45: -1807282527
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_254: 1199723850
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_196: -1431650033
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_206: -163354086
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_41: 805226506
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_57: -469134491
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_210: 1450686682
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_11: 1307740284
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_98: 482278179
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_14: 424502416
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_39: 365812110
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_94: 620229589
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_50: -192723345
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_218: -462933376
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_187: -56360785
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_116: -2000515742
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_238: -1639138753
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_253: 685627677
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_256: 1997738421
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_252: 879405392
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_245: 1523592928
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_231: 814196355
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_227: -1284211243
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_249: -2020682750
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_113: -82446044
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_70: -1125488242
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_83: -1570295832
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_175: -125190466
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_182: -1327623102
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_112: -1116347871
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_92: 819532043
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_232: -1749657292
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_107: -543755745
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_30: 957197074
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_46: 635370175
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_8: 1564289696
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_169: 1296575587
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_102: 2113858583
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_168: 354253528
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_38: -1680426559
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_145: -365246785
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_5: -1137123142
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_101: -1495868096
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_214: 2083154065
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_43: 497936936
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_87: -1244944155
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_32: 1024959769
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_121: 1552306211
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_55: 255830114
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_33: 2030277809
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_100: -729537307
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_207: 1309945968
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_134: 2004275762
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_155: -54673081
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_47: 2033622360
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_241: 946265930
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_31: 161009198
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_150: 1339252648
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_163: 1796370361
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_85: -2112039852
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_197: -1803741047
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_219: 228225146
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_109: 188671160
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_176: 1599804702
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_51: -1827745827
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_177: 1371253253
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_117: 665598503
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_72: -1861901130
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_106: 103088667
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_181: 412855608
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_171: 907279350
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_24: 1508792038
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_6: -2009190123
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_16: -944484361
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_42: -1092391898
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_172: 726209994
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_132: 936029619
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_97: -559317633
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_179: 1865361586
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_213: 1306706570
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_40: -2002420479
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_63: 1769309741
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_135: 1970252095
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_242: 498460831
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_211: 1364505005
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_166: -1275666598
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_36: 2127705353
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_251: -799025469
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_89: 1387951069
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_237: -1700673204
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_74: 1130458254
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_66: 1980047595
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_246: -1671263707
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_96: -967086183
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_229: -95912296
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_141: 1950998910
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_239: 1734546412
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_223: 578189021
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_199: 1390601059
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_248: -970015710
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_58: -1251725885
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_21: 45930926
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_164: -427692009
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_215: 218954985
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_217: 1120126827
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_228: -1228221854
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_144: -1232062812
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_91: 476132293
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_161: 1129415044
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_162: 1335685816
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_82: 1144188010
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_212: -1810310615
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_142: 1172752324
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_114: 844428635
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_183: -364174031
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_173: 348095467
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_26: -189805893
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_257: -163249989
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_131: 1862141124
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_156: -1002154108
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_69: 1764828466
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_68: -623411094
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_84: 1004486432
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_235: 747702869
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_90: 1454385552
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_127: -1009390835
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_3: -1644406170
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_244: -964476339
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_67: -2085811190
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_139: -827028273
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_203: -1306434040
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_34: 195126849
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_4: 1149129448
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_71: -60662046
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_110: -340563445
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_188: 1623243430
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_148: -1403576431
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_205: 1946857485
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_128: 1280887448
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_226: 402488502
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_49: 1799401787
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_208: -427286819
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_65: 1424090760
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_243: 346264996
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_35: -1017000588
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_111: 847813679
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_99: 1224324946
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_104: -937097359
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_140: 1038064809
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_37: -814799264
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_184: -1170064540
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_200: -1535741765
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_230: -436012423
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_23: -166398283
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_167: -1633434130
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_124: 939869493
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_225: 2100602464
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_29: -421178742
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_77: 490627089
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_0: -1948668777
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_209: -1558587688
+      33076_InsideA2_MVedit_by_Luar_png-par-Luar, Kadokawa_95: -1573438984
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

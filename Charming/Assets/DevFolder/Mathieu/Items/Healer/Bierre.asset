@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e306643f7687d344da978464995801a5, type: 3}
+  m_Name: Bierre
+  m_EditorClassIdentifier: 
+  Name: Bierre
+  Icon: {fileID: 21300000, guid: af35bccc073349845a7c2c502262e5d0, type: 3}
+  Description: Cette bierre vous rendra 22 points de vie
+  BuyPrice: 75
+  SellPrice: 30
+  IDSprite: 21
+  HealValue: 22
+  FirstOBJCraft: {fileID: 11400000, guid: bf263ec2495e45a42948a2525fc825c1, type: 2}
+  SecondeOBJCraft: {fileID: 11400000, guid: a9785f10d6583a14a86ee01b6ed8158d, type: 2}

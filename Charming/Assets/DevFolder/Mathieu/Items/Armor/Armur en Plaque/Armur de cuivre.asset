@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9485614fe310eaf498706c50bc84370c, type: 3}
+  m_Name: Armur de cuivre
+  m_EditorClassIdentifier: 
+  Name: Armur de cuivre
+  Icon: {fileID: 21300000, guid: 683e7d9d6853b8a4b9dbe41a0be44b5c, type: 3}
+  Description: 
+  BuyPrice: 300
+  SellPrice: 100
+  IDSprite: 29
+  TypeSlot: 0
+  TypeWeapon: 0
+  DommageModifier: 0
+  LifeModifier: 4
+  DefenceModifier: 4
+  MagicModifier: 0
+  Range: 0
+  TypeGarment: 2

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4ba7dd43c500a0448324e047e1fe12e, type: 3}
+  m_Name: Q2
+  m_EditorClassIdentifier: 
+  Name: 'Cours Princesse, cours ! '
+  Description: 'Quitter la ville en esquivant les gardes devenus agressifs. '
+  StartTrigger: Q2_Start
+  GoldReward: 100
+  XpReward: 130
+  StatusQuest: 3
+  TriggerTag: Q2_End

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e306643f7687d344da978464995801a5, type: 3}
+  m_Name: Potion de vie
+  m_EditorClassIdentifier: 
+  Name: Potion de vie
+  Icon: {fileID: 21300000, guid: 19576ffc906f90b4a80790bea1c14ffa, type: 3}
+  Description: Cette potion vois rendra 30 points de vie
+  BuyPrice: 100
+  SellPrice: 25
+  IDSprite: 25
+  HealValue: 30
+  FirstOBJCraft: {fileID: 11400000, guid: 9dc19f45a63202c4c813fcea376faf75, type: 2}
+  SecondeOBJCraft: {fileID: 11400000, guid: c553581f8c17cc24498bf313a2780918, type: 2}
